@@ -6,15 +6,7 @@
   </a>
 </p>
 
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=pushpa3037&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views of pushpa3037" style="float: left; margin-right: 100px;" />
-</p>
-
 <p></p>
-
-<p><a href="https://twitter.com/adi_sayyss" target="_blank" style="float: right; margin-left: 100px;">
-    <img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss Twitter followers" />
-  </a></p>
 
 ---
 
@@ -30,68 +22,6 @@
 - ⚡ Fun fact **I am memer and formula 1 lover**
 
 </p>
-
-## 📈  &nbsp;Technical Skills and Expertise
-**Programming Languages:**
-
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,ts,solidity,matlab)](https://skillicons.dev)
-
-
-**Front-end Frameworks:**
-
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,threejs,html,css)](https://skillicons.dev)
-
-
-**Back-end Frameworks:**
-
-[![My Skills](https://skillicons.dev/icons?i=express,flask,nodejs,jenkins,appwrite)](https://skillicons.dev)
-
-
-**Databases:**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
-
-**Version Control & Collaboration:**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,notion,obsidian,replit)](https://skillicons.dev)
-
-
-**Cloud Platforms:**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,firebase,netlify,vercel)](https://skillicons.dev)
-
-
-**Design & Prototyping:**
-
-[![My Skills](https://skillicons.dev/icons?i=figma,canva)](https://skillicons.dev)
-
-
-**Data Visualization:**
-
-[![My Skills](https://skillicons.dev/icons?i=d3)](https://skillicons.dev)
-
-
-**Development Tools:**
-
-[![My Skills](https://skillicons.dev/icons?i=babel,anaconda,visualstudio,vscode,idea,npm,postman)](https://skillicons.dev)
-
-
-**3D Modeling & CAD:**
-
-[![My Skills](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev)
-
-
-**Containerization & Orchestration:**
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-
-
-**State Management:**
-
-[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
-
-<p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left"> 
@@ -110,6 +40,13 @@
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
+
+<h3 align="">👁️ Visitor Count</h3>
+<p align="center">
+  <img src="https://count.getloli.com/get/@pushpa3037?theme=rule34" alt="Visitor Count" />
+</p>
+
+
 
 ## 🙋‍♀️ Let's Connect
 
