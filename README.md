@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+is+my+love+language;Code+Eat+Sleep+Repeat;Always+in+Debug+Mode;ML+but+make+it+aesthetic;Learning+never+stops&center=true&width=450&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer;Python+%7C+Deep+Learning;Data+Science+Explorer;Building+Smart+Systems;Transforming+Ideas+into+Code&center=true&width=450&height=45">
   </a>
 </p>
-
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=pushpa3037&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views of pushpa3037" style="float: left; margin-right: 100px;" />
