@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prerna 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/patilprerna/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=🤖+AIML+Student+%7C+B.Tech+3rd+Year;✨+Machine+Learning+Explorer;🧠+Neural+Nets+and+Chill!!;📚+Always+Learning+something+new;🌍+AI+for+a+better+future&center=true&width=700&height=75">
   </a>
 </p>
@@ -12,7 +12,7 @@
 
 ## &nbsp;🏆 GitHub Profile Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=pushpa3037&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=patilprerna&theme=juicyfresh&no-bg=true" />
 
 ## 👨‍💻  &nbsp;About Me 
 - 📈 I'm **Multilingual** coder
@@ -25,9 +25,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left"> 
-<a href="https://github.com/pushpa3037"> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pushpa3037&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
-<img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pushpa3037&layout=compact&langs_count=8&theme=algolia"/> 
+<a href="https://github.com/patilprerna"> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=patilprerna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+<img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=patilprerna&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 </p>
 
@@ -35,15 +35,15 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥" alt="Pushpa Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpa3037&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/patilprerna/github-readme-streak-stats">
+    <img title="🔥" alt="PRerna Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=patilprerna&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
 ## 👁️ Visitor Count
 <p align="center">
-  <img src="https://count.getloli.com/get/@pushpa3037?theme=rule34" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@patilprerna?theme=rule34" alt="Visitor Count" />
 </p>
 
 
