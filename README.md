@@ -48,16 +48,16 @@
 
 
 
-## 🙋‍♀️ Let's Connect
+## 🌐Socials
 
-<p align="center">
-	<a href="https://linktr.ee/pushpa3037" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/pushpa3037" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/pushpa3037/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://www.x.com/adi_sayyss/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
-	<a href="mailto:pushpa3037@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
+<div align="center" width=full>
+<a href="https://www.linkedin.com/in/patilprerna/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/patil.prernaa/"><img src="https://img.shields.io/badge/InstaGram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:patilprerna230@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.hackerrank.com/profile/prerna"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/patilprerna/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+</div>
+
 
 ## &nbsp;🏆 Holopin board 
 [![@pushpa3037's Holopin board](https://holopin.me/pushpa3037)](https://holopin.io/@pushpa3037)#
