@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AIML+Student+%7C+B.Tech+3rd+Year;Machine+Learning+Explorer;Neural+Nets+and+Chill;Always+Learning+Something+New;AI+for+a+Better+Future&center=true&width=480&height=45&color=00FFFF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🤖+AIML+Student+%7C+B.Tech+3rd+Year;✨+Machine+Learning+Explorer;🧠+Neural+Nets+and+Chill!!;📚+Always+Learning+something+new;🌍+AI+for+a+better+future&center=true&width=700&height=75">
   </a>
 </p>
 
