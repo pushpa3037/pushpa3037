@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Pushpa 👋</h1>
+<h1 align="center">Hi, I'm Prerna 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Web+Developer;Pro+DSA+Solver;Devops+Enthusiast;Blockchain+and+Web+3.0;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AIML+Student+%7C+B.Tech+3rd+Year;Machine+Learning+Explorer;Neural+Nets+and+Chill;Always+Learning+Something+New;AI+for+a+Better+Future&center=true&width=450&height=45">
+  </a>
 </p>
 
 <p> 
