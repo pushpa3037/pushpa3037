@@ -6,11 +6,10 @@
   </a>
 </p>
 
-<p></p>
 
 ---
 
-## &nbsp;🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=patilprerna&theme=juicyfresh&no-bg=true" />
 
