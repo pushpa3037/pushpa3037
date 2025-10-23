@@ -30,6 +30,15 @@
 </a>
 </p>
 
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left"> 
+<a href="https://github.com/patilprerna"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patilprerna&show_icons=true&theme=algolia&rank_icon=github&locale=en" alt="patilprerna" />
+<img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=patilprerna&layout=compact&langs_count=8&theme=algolia"/> 
+</a>
+</p>
+
+
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
