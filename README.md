@@ -192,9 +192,41 @@
 </p>
 
 ---
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/patilprerna"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p><br><br>
-<br>
+<table width="100%"><tr>
+  <!-- Left column: Support -->
+  <td valign="top" width="66%">
+    <h3 align="left">Support:</h3>
+    <p>
+      <a href="https://www.buymeacoffee.com/patilprerna">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+      </a>
+    </p>
+    <br>
+  </td>
+
+  <!-- Right column: Octo Ring widget -->
+  <td valign="top" width="34%" align="right">
+    <a href="https://octo-ring.com/">
+      <img src="https://octo-ring.com/static/img/widget/top.png" style="max-width:100%;" alt="Octo Ring logo">
+    </a>
+    <br>
+    <a href="https://octo-ring.com/p/pushpa3037/prev">
+      <img src="https://octo-ring.com/static/img/widget/prev.png" style="width:48%;max-width:160px" alt="previous" title="previous profile">
+    </a>
+    <a href="https://octo-ring.com/p/pushpa3037/random">
+      <img src="https://octo-ring.com/static/img/widget/random.png" style="width:48%;max-width:160px" alt="random" title="random profile">
+    </a>
+    <br>
+    <a href="https://octo-ring.com/p/pushpa3037/next">
+      <img src="https://octo-ring.com/static/img/widget/next.png" style="width:48%;max-width:160px" alt="next" title="next profile">
+    </a>
+    <br>
+    <a href="https://octo-ring.com/">
+      <img src="https://octo-ring.com/static/img/widget/bottom.png" style="max-width:100%;" alt="octo ring bottom">
+    </a>
+  </td>
+</tr></table>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
