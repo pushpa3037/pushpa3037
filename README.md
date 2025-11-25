@@ -1,4 +1,4 @@
-<div style="border: 3px solid #ff4ec7; border-radius: 15px; padding: 20px;">
+<div style="border: 10px solid #ff4ec7; border-radius: 25px; padding: 30px;">
 
 <h1 align="center">Hi, I'm Prerna 👋</h1>
 
