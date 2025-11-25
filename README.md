@@ -1,25 +1,18 @@
-<h1 align="center">Hi, I'm Prerna 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/patilprerna/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=🤖+AIML+Student+%7C+B.Tech+3rd+Year;✨+Machine+Learning+Explorer;🧠+Neural+Nets+and+Chill!!;📚+Always+Learning+something+new;🌍+AI+for+a+better+future&center=true&width=700&height=75">
-  </a>
+  <img src="gittt.gif" width="100%" />
 </p>
+
 
 
 ---
 
-## 👨‍💻  &nbsp;About Me 
-- 📈 I'm **Multilingual** coder
-- 🌱 I’m currently learning **Data Structure and Algorithm, Devops and WEB 3.0**
-- 💻 **5⭐** on **HackerRank** in **Python, SQL**
-- 📫 Feel free to contact me : **pushpa3037@gmail.com**
-- ⚡ Fun fact **I am memer and formula 1 lover**
+## 💫  &nbsp;About Me 
+Hello Friends <br>
+I'm Prerna 3rd-year B.Tech AIML student who loves building cool stuff with code, **exploring AI**, and **learning new tech every day**<br>
+currently learning **Data Structure and Algorithm, Devops, Java and Exploring The world of AI**
 
-</p>
-
-
-# 💻 Tools and Technologies
+# 💻 &nbsp;Tools and Technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -147,7 +140,7 @@
 
 <p align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=patilprerna&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" />
@@ -155,13 +148,13 @@
 
 
 
-## 👁️ Visitor Count
+## 👁️ &nbsp;Visitor Count
 <p align="center">
   <img src="https://count.getloli.com/get/@patilprerna?theme=rule34" alt="Visitor Count" />
 </p>
 
 
-## 🌐 Socials
+## 🌐 &nbsp;Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/patilprerna/" style="text-decoration: none;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
@@ -183,7 +176,7 @@
   </a>
 </p>
 
-## 💬 Random Developer Quote
+## 💬 &nbsp;Random Developer Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -225,7 +218,8 @@
 
 </tr>
  </table> </div>
-
+ 
+## 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
