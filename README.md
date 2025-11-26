@@ -6,7 +6,7 @@
 
 
 ---
-
+<!--
 ## 💫  &nbsp;About Me 
 Hello Friends <br>
 I'm Prerna 3rd-year B.Tech AIML student who loves building cool stuff with code, **exploring AI**, and **learning new tech every day**<br>
@@ -182,7 +182,7 @@ currently learning **Data Structure and Algorithm, Devops, Java and Exploring Th
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-
+--->
 ##
 
 <div align="center">
