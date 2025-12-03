@@ -1,9 +1,9 @@
-
+<!--
 <p align="center">
   <img src="gittt.gif" width="100%" />
 </p>
 
-
+-->
 
 ---
 <!--
